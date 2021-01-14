@@ -71,7 +71,8 @@
 - Push the image to the docker hub by running "docker push  username/tagname" ie docker push senzxita/sca-cloud-school:latest
 - Run the container using "docker run -p 5000:80 -d username/repository ie docker run -p 5000:80 -d senzxita/sca-cloud-school
  
-
+# Link to DockerHub Repository
+https://hub.docker.com/repository/docker/senzxita/sca-cloud-school
 
 
 
