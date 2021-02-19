@@ -1,4 +1,5 @@
 ## SCA-Cloud-School-Application
+A technical assessment for SCA program
 
 # To Create a Repository on Github
 - From your github profile, click on Repositories, select "New"
