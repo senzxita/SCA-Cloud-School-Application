@@ -16,7 +16,7 @@ A technical assessment for SCA program
 - Create a Docker folder
 - Open a text editor e.g Visual Studio, Notepad++
 - write codes to display "Welcome to SCA Cloud School Application" on the webpage
-- save as "ndex.html" in the Docker folder
+- save as "index.html" in the Docker folder
 
 # To Create a Dockerfile
 - open visual studio, click on file and create "New File"
